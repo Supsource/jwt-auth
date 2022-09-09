@@ -1,6 +1,7 @@
 # jwt-auth
 
 install fiber by writing 
+
 ```
-go get github.com/gofiber/fiber
+go get -u github.com/gofiber/fiber/v2
 ```
